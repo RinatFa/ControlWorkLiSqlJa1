@@ -1,0 +1,28 @@
+dbrf@dblinux:~$ history
+    1  history
+    2  cat > domestic_animals.txt
+    3  cat domestic_animals.txt
+    4  cat > pack_animals.txt
+    5  cat pack_animals.txt
+    6  ls -l
+    7  cat domestic_animals.txt pack_animals.txt > animals.txt
+    8  cat animals.txt
+    9  mv animals.txt human_friends.txt
+   10  ls -l
+   11  mkdir nursery
+   12  mv human_friends.txt nursery
+   13  ls -l
+   14  ls -l nursery/
+   15  sudo apt install mysql-server-8.0 -y
+   16  systemctl status mysql
+   17  cd shared
+   18  ls -l
+   19  dpkg --get-selections
+   20  sudo dpkg -i bleachbit_4.4.2-0_all_ubuntu2004.deb
+   21  dpkg --get-selections
+   22  apt list --installed
+   23  sudo apt remove bleachbit
+   24  dpkg --get-selections
+   25  history
+   26  cd
+   27  history
